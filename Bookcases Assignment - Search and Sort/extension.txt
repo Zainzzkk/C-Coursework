@@ -1,0 +1,11 @@
+Hi,
+
+In my extension file, I have plotted the routes taken by the books if verbose flag used.
+The first arrow starts from where the book was and it points all the
+way round and up/down the route until it points to where the book is.
+The functions have been tested.
+In addition, the route is also in the colour of the moved book.
+
+Enjoy.
+
+Zain

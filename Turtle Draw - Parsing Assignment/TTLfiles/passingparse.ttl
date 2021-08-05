@@ -1,0 +1,8 @@
+{
+DO A FROM 1 TO 360 {
+SET C := A 2 * ;
+FD C
+RT 2
+}
+FD A
+}

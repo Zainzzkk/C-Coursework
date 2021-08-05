@@ -1,0 +1,5 @@
+My extension is a simple but useful addition to my project. 
+1) Colour selection for the program.  The first option is to select the colour of the line by entering RGB values and confirming if happy with them. 
+2) I have made the option of typing in your own instructions or scanning in a file.  When typing in, END in capitals must be entered at end of instructions.  
+3) I have made the option of reviewing all the instructions and changing them if required (with confirmation of what is going to be changed)
+4) An added bonus is the ability of using SDL to write your name or a word.  This is still quite primative but it does write names (usually a max of 5 letters).  Writing a word or name requires alphabet files from a - z to be present in the same directory as the instructions are in those files.  The function takes the character, adds .ttl and then reads in the file.
